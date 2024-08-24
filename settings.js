@@ -2,7 +2,7 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 module.exports = {
-  SESSION_ID: '',
+  SESSION_ID: 'QUEENELISA;;;==QV3Q2NaJ1SMhVLV1kR1NWT6pEcz9WW41ieolWdmNDVoBVRyEkURZkc2EFdjkENEpXbslkWpwd=648719870819',
   ALIVE_REACT: '👋',
   ALIVE_MESSAGE: `*Hello @name [ And @gname @members Number of Members ] I am Alive Now !*
 
@@ -19,7 +19,7 @@ module.exports = {
 
 Qᴜᴇᴇɴ ᴇʟɪꜱᴀ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ`,
   ALIVE_MEDIA: 'https://i.imgur.com/zL8iMBv.jpeg',
-  MONGODB_URL: '', 
+  MONGODB_URL: 'mongodb+srv://itssksbot:Syam@sksbot2024.eiumpxd.mongodb.net/?retryWrites=true&w=majority&appName=sksbot2024', 
   PREFIX: '.$&',
   LANGUAGE: 'EN',
   PORT: 3000,
